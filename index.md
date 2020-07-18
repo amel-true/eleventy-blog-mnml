@@ -1,8 +1,10 @@
 ---
-layout: homepage.liquid
-title: Horsin' Around
+layout: homepage.ejs
+title: Andrey Melikhov
 ---
 
-## Welcome to Hollywoo
+## Андрей Мелихов
+Единая точка входя для всей моей активности
 
-Hello. I am BoJack. Horseman, obviously
+[YouTube](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) | [GitHub](https://github.com/amel-true/) | [LinkedIn](https://www.linkedin.com/in/andrey-melikhov-2b15911a4/)
+

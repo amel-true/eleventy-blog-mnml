@@ -1,4 +1,4 @@
-.post-container {
+.article-container {
   margin-top: 32px;
 
   header {
@@ -35,6 +35,13 @@
         position: absolute;
         margin-left: -1.1em;
       }
+    }
+
+    img {
+        width: 600px;
+        padding: 20px 0 0 0;
+        margin-left: -50px;
+        margin-right: -50px;
     }
   }
 

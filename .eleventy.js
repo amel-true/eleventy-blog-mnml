@@ -11,7 +11,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary("md", markdownIt(options));
 
   return {
-    // Use liquid in html templates
-    htmlTemplateEngine: "liquid"
+    htmlTemplateEngine: "ejs"
   };
 };
